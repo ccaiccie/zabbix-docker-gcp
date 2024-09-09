@@ -2,5 +2,5 @@
 bash zabbix.sh
 
 # Login
-usernamne Admin
+username Admin
 password zabbix
